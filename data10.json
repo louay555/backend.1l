@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "fname": "Fouzi",
+    "lname": "Maheer",
+    "age": 23,
+    "city": "Latakya"
+  },
+  {
+    "id": 2,
+    "fname": "Sara",
+    "lname": "Khaled",
+    "age": 29,
+    "city": "Damascus"
+  },
+  {
+    "id": 3,
+    "fname": "Omar",
+    "lname": "Yazid",
+    "age": 35,
+    "city": "Aleppo"
+  },
+  {
+    "id": 4,
+    "fname": "Lina",
+    "lname": "Hassan",
+    "age": 27,
+    "city": "Homs"
+  },
+  {
+    "id": 5,
+    "fname": "Ali",
+    "lname": "Samer",
+    "age": 31,
+    "city": "Tartous"
+  },
+  {
+    "id": 6,
+    "fname": "Nour",
+    "lname": "Majid",
+    "age": 24,
+    "city": "Daraa"
+  },
+  {
+    "id": 7,
+    "fname": "Mona",
+    "lname": "Hadi",
+    "age": 28,
+    "city": "Latakya"
+  },
+  {
+    "id": 8,
+    "fname": "Tariq",
+    "lname": "Salim",
+    "age": 33,
+    "city": "Hama"
+  },
+  {
+    "id": 9,
+    "fname": "Laila",
+    "lname": "Rafiq",
+    "age": 26,
+    "city": "Suwayda"
+  },
+  {
+    "id": 10,
+    "fname": "Faris",
+    "lname": "Ameer",
+    "age": 22,
+    "city": "Raqqa"
+  },
+  {
+    "id": "1",
+    "fname": "Fouzi",
+    "lname": "Maheer",
+    "age": 23,
+    "city": "Latakya"
+  },
+  {
+    "id": "1",
+    "fname": "Fouzi",
+    "lname": "Maheer",
+    "age": 23,
+    "city": "Latakya"
+  }
+]
